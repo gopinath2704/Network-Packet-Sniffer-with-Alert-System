@@ -134,30 +134,30 @@ The EXE will appear in the dist folder.
 
 This tool is for:
 
-Learning
+  * Learning
 
-Lab use
+  * Lab use
 
-Monitoring your OWN network
+  * Monitoring your OWN network
 
 Do NOT use on networks you do not own or have permission to test.
 
-##🛠 Future Improvements
+## 🛠 Future Improvements
 
-Log export support
+ * Log export support
 
-Pcap recording
+ * Pcap recording
 
-Machine-learning attack detection
+ * Machine-learning attack detection
 
-Email / Telegram alerts
+ * Email / Telegram alerts
 
 ## 🙌 Credits
 
 Built using:
 
-Python
+  * Python
 
-Scapy
+  * Scapy
 
-Tkinter
+  * Tkinter
