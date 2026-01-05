@@ -62,7 +62,7 @@ Install Python 3.10+ and run:
 On Linux, you may need root permissions
 On Windows, run the script in Admin mode
 
-##▶️ How to Run
+## ▶️ How to Run
 python sniffing.py
 
 
@@ -104,7 +104,7 @@ nmap -Pn <your_public_IP>
 ⚠ Your router firewall may block this, meaning your PC won’t receive packets.
 If packets reach your PC, the alert will fire.
 
-##🎨 GUI Features
+## 🎨 GUI Features
 
 Dark UI theme
 
@@ -116,7 +116,7 @@ CRITICAL alerts flash red
 
 Optional sound alert
 
-##📦 Convert to .EXE (Windows)
+## 📦 Convert to .EXE (Windows)
 
 Install PyInstaller:
 
@@ -130,7 +130,7 @@ pyinstaller --onefile --windowed sniffing.py
 
 The EXE will appear in the dist folder.
 
-##⚠️ Legal & Ethical Notice
+## ⚠️ Legal & Ethical Notice
 
 This tool is for:
 
@@ -152,7 +152,7 @@ Machine-learning attack detection
 
 Email / Telegram alerts
 
-##🙌 Credits
+## 🙌 Credits
 
 Built using:
 
