@@ -69,6 +69,7 @@ python sniffing.py
 The GUI will open and packets begin processing automatically.
 
 🧪 Testing the Alert System
+
 🔹 Test 1 — Local scan from SAME PC (Expected: No Alert)
 
 From WSL / same machine:
