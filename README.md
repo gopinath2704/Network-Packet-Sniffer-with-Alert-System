@@ -84,6 +84,7 @@ nmap <your_local_IP>
 
 ✔ This should NOT trigger alerts
 
+
 🔹 Test 2 — Scan from another device on SAME Wi-Fi (Expected: Alert)
 
 From another phone / laptop:
@@ -94,6 +95,7 @@ nmap -sS <your_IP>
 ✔ This WILL trigger alerts
 
 Severity depends on intensity.
+
 
 🔹 Test 3 — Internet-based scan (Expected: Alert)
 
